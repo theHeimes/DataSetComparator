@@ -1,0 +1,1 @@
+jdbc:mysql://localhost/SCMIS_Test?user=root&password=!Gold007!

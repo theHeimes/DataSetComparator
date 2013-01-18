@@ -1,0 +1,45 @@
+<class-diagram version="1.0.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" corner="BOTTOM_RIGHT" language="java" name="de.thiss.datasetcomparator.ReferenceSetLoader" 
+    project="DataSetComparator" file="/DataSetComparator/src/de/thiss/datasetcomparator/ReferenceSetLoader.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="274" y="114"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" corner="BOTTOM_RIGHT" language="java" name="de.thiss.datasetcomparator.ComparisonSetLoader" 
+    project="DataSetComparator" file="/DataSetComparator/src/de/thiss/datasetcomparator/ComparisonSetLoader.java" 
+    binary="false">    
+    <position height="77" width="226" x="476" y="48"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" corner="BOTTOM_RIGHT" language="java" name="de.thiss.datasetcomparator.ComparationResultLogger" 
+    project="DataSetComparator" file="/DataSetComparator/src/de/thiss/datasetcomparator/ComparationResultLogger.java" 
+    binary="false">    
+    <position height="77" width="205" x="864" y="80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" corner="BOTTOM_RIGHT" language="java" name="de.thiss.datasetcomparator.ResultsetComparator" 
+    project="DataSetComparator" file="/DataSetComparator/src/de/thiss/datasetcomparator/ResultsetComparator.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="760" y="274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

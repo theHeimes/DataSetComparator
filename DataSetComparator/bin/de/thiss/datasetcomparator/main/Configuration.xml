@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<epsilon>1.0</epsilon>
+	<!-- Reference Data Set -->
+	<referencesql>select * from ReferenceData</referencesql>
+	<referenceDatabaseConnection>jdbc:mysql://localhost/SCMIS_Test?user=root&password=!Gold007!</referenceDatabaseConnection>
+	<!-- Comparison Data Set -->
+	<compareSQL>select * from ReferenceData</compareSQL>
+	<comparisonDatabaseConnection>jdbc:mysql://localhost/SCMIS_Test?user=root&password=!Gold007!</comparisonDatabaseConnection>
+</config>
